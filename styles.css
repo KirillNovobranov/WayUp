@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-img {
+    width: 100%;
+    height: 98vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    font-style: italic;
+    color: goldenrod;
+}
+
+h2 {
+    color: lightcoral;
+}
+
+h3 {
+    color: lightsalmon;
+}
+
+h4 {
+    color: darkolivegreen;
+}
+
+h5 {
+    text-transform: uppercase;
+}
+
+h6 {
+    letter-spacing: 20px;
+}
+
+.images {
+    text-align: center;
+}
+
+.list {
+    padding: 50px;
+}
+
+li {
+    font-size: 40px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: greenyellow;
+}
